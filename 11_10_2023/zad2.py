@@ -1,0 +1,5 @@
+print("pomarańcza", end=" " )
+print("jabłko")
+print("kiwi")
+print("")
+input("Wciśnij enter by zamknąć")
