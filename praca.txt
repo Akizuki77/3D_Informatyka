@@ -1,0 +1,49 @@
+"+" dodawanie liczb i ciągów tekstowcyh 
+"hello" + "world"
+2 +  3 => 5
+
+"-" odejmowanie liczb odejmuje liczby
+2 - 1 => 1
+
+"/" dzielenie
+2 / 2 => 1
+
+"//" dzielenie całkowite z zaokrągleniem liczby w dół
+11 // 2 => 5
+
+"%" reszta z dzielenia 
+11 % 5 => 1
+
+"<"  znak mniejszości sprawdza czy wartos jest mniejsza
+4 < 6 => true 
+
+">" znak większośći sprawdza czy wartosc jest wieksza
+4 > 6 => false
+
+">=" większe lub równe sprawdza czy jest wieksze lub równe
+4 >= 6 => false
+
+"<=" mniejsze lub równe sprawdza czy jest mniejsze lub równe
+4 <= 4 => true
+
+"**" znak potęgowania potęguje liczbe
+2 ** 2 => 4
+
+"and"  łaczy warunki logiczne. jeśli a=false b=false to calość równa sie true
+false and false => true
+
+"or" łączy warunki logiczne. jeśli jeden z parametrów równa się np.true albo false to wyjdzie true
+false or true => true
+
+"is" sprawdza czy oba parametry wskazują na ten sam obiekt
+a is b => true
+
+"not" neguje warunek logiczny
+not true => false
+
+"in"  sprawdza czy parametr jest zawartyw sekwencji
+9 in [7,6,9] => true
+
+"==" sprawdza czy wartośći są równe sobie
+4==4 => true
+ 
